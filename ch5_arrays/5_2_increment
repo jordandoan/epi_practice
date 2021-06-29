@@ -1,0 +1,14 @@
+def increment(A: [int]) -> [int]:
+    carry = 0
+    A[-1] += 1
+    for i in reversed(range(len(A))):
+        A[i] = (A[i] + carry) % 10
+        if A[i]:
+            carry = 0
+        else:
+            carry = 1
+    return [1] + A if carry else A
+
+print(increment([2,3,5]))
+
+#var given two strings of bits in binary, return new string of sum of two bits
