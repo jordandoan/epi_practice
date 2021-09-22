@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc2d104-ccc8-416f-b3ec-b805b739bb56" name="Default Changelist" comment="" />
+    <list default="true" id="fdc2d104-ccc8-416f-b3ec-b805b739bb56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +22,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ch5_arrays" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.valid_paranthesis_asterisk">
     <configuration name="7_1_merge_sorted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ch7_linkedlists" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,8 +46,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="valid_paranthesis_asterisk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ch7_linkedlists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lc" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lc/valid_paranthesis_asterisk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valid_paranthesis_asterisk" />
         <item itemvalue="Python.7_1_merge_sorted" />
       </list>
     </recent_temporary>
@@ -76,25 +100,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1632246075248">
+    <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1632328011372">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1060" y="461" key="FileChooserDialogImpl/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632246075248" />
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1632246894693">
-      <screen x="-1920" y="360" width="1920" height="1050" />
+    <state x="1060" y="461" key="FileChooserDialogImpl/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632328011372" />
+    <state width="2539" height="285" key="GridCell.Tab.0.bottom" timestamp="1632253252009">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1920.360.1920.1050@-1920.360.1920.1050" timestamp="1632246894693" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1632246894693">
-      <screen x="-1920" y="360" width="1920" height="1050" />
+    <state width="2539" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632253252009" />
+    <state width="2539" height="285" key="GridCell.Tab.0.center" timestamp="1632253252009">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.2560.1410/-1920.360.1920.1050@-1920.360.1920.1050" timestamp="1632246894693" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1632246894692">
-      <screen x="-1920" y="360" width="1920" height="1050" />
+    <state width="2539" height="285" key="GridCell.Tab.0.center/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632253252009" />
+    <state width="2539" height="285" key="GridCell.Tab.0.left" timestamp="1632253252009">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.2560.1410/-1920.360.1920.1050@-1920.360.1920.1050" timestamp="1632246894692" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1632246894693">
-      <screen x="-1920" y="360" width="1920" height="1050" />
+    <state width="2539" height="285" key="GridCell.Tab.0.left/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632253252009" />
+    <state width="2539" height="285" key="GridCell.Tab.0.right" timestamp="1632253252009">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.2560.1410/-1920.360.1920.1050@-1920.360.1920.1050" timestamp="1632246894693" />
+    <state width="2539" height="285" key="GridCell.Tab.0.right/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632253252009" />
+    <state x="976" y="530" key="com.intellij.ide.util.TipDialog" timestamp="1632327983556">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="976" y="530" key="com.intellij.ide.util.TipDialog/0.0.2560.1410/-1920.360.1920.1050@0.0.2560.1410" timestamp="1632327983556" />
   </component>
 </project>
